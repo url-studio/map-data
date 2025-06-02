@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "tets-site.kmz",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "Untitled Polygon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -112.280777737362996, 33.479273271329802 ], [ -112.264801870868993, 33.479580784865597 ], [ -112.264210380620995, 33.4891141864207 ], [ -112.264766367519002, 33.493704319773101 ], [ -112.281079633931, 33.493437358014802 ], [ -112.280777737362996, 33.479273271329802 ] ] ] } }
-]
-}
